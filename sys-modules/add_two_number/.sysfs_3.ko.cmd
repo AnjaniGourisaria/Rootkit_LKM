@@ -1,0 +1,1 @@
+cmd_/home/codigion/codigion/sys-modules/add_two_number/sysfs_3.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/codigion/codigion/sys-modules/add_two_number/sysfs_3.ko /home/codigion/codigion/sys-modules/add_two_number/sysfs_3.o /home/codigion/codigion/sys-modules/add_two_number/sysfs_3.mod.o ;  true
